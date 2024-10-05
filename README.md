@@ -6,10 +6,10 @@
     <a target="_blank" rel="noopener noreferrer" href="https://www.hannover.de">
         <img src="https://img.shields.io/badge/dynamic/json?color=green&label=Region&query=location&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNobleMajo&style=for-the-badge" />
     </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/NobleMajo?tab=followers">
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/Hillcrest01?tab=followers">
         <img src="https://komarev.com/ghpvc/?username=NobleMajo&label=Guests&color=0e75b6&style=for-the-badge" />
     </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://github.com/NobleMajo">
+    <a target="_blank" rel="noopener noreferrer" href="https://github.com/Hillcrest01">
         <img src="https://img.shields.io/badge/dynamic/json?color=orange&label=Follower&query=followers&suffix=x&url=https%3A%2F%2Fapi.github.com%2Fusers%2FNobleMajo&style=for-the-badge" />
     </a>
 </div>
@@ -57,7 +57,7 @@
     - ⚡ My approach: <b>learn from mistakes</b><br>
     - 💬 Ask me about: <b><i>typescript, go, docker, <br> devops, nodejs, web, cli or my projects</i></b><br>
     - 📫 You can reach me <b><a href="https://github.com/NobleMajo#contact-me">here</a></b><br>
-    - 🌟 Checkout my <a href="https://github.com/NobleMajo?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
+    - 🌟 Checkout my <a href="https://github.com/Hillcrest01?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
     - 💡 Feel free to look at my last <a href="https://github.com/NobleMajo/hivessh">idea</a><br>
     - 🔗 Following me, is <b><i>FREE</i></b>...
 </p>
@@ -190,7 +190,7 @@ This is what I last heard on Spotify.<br>
         </tr>
         <tr>
             <td width="92px">
-                <img align="center" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/telegram-icon.png" height="64" width="64" alt="D" />
+                <img align="center" src="https://raw.githubusercontent.com/Hillcrest01/Peter/main/telegram-icon.png" height="64" width="64" alt="D" />
             </td>
             <td width="100px" align="center"><a href="https://telegram.me/NobleMajo" target="blank">Telegram<br><i>(direct)</i></a></td>
             <td>You can sometimes reach me here.</td>
@@ -201,9 +201,9 @@ This is what I last heard on Spotify.<br>
 <br><br>
 <hr>
 <p align="center">
-    <a href="https://github.com/NobleMajo?tab=repositories">projects</a> | 
+    <a href="https://github.com/Hillcrest01?tab=repositories">projects</a> | 
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">http status 418</a> | 
-    <a href="https://github.com/NobleMajo#contect-me">contact</a> | 
-    <a href="https://github.com/NobleMajo#langs--techs">techs</a>
+    <a href="https://github.com/Hillcrest01#contect-me">contact</a> | 
+    <a href="https://github.com/Hillcrest01#langs--techs">techs</a>
 </p>
 <hr>
